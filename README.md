@@ -9,5 +9,8 @@ Here is the website I find interesting, which is about [the evolution of softwar
 # Comment by Louis
 Interesting read. Two caveats: (1) Pay stagnation may reflect cyclical hiring, offshoring, and title dilution as much as automation; decade-scale comparisons risk survivorship bias. (2) “Obsolete” is overstated. LLMs commoditize boilerplate, shifting value to problem framing, architecture, data quality, integration, reliability, and governance. Demand concentrates for engineers who can wield AI tools, reason about systems, and own outcomes. Expect fewer pure coders, more product-minded engineers and AI-augmented teams. Upskilling toward design, security, and domain expertise mitigates risk.
 
+ ## Comment from ethanzzheng
+ Cool article! As someone interested in software roles, I think this article provides insight into the future of LLMs and how that will impact compesensation in the tech market. 
+
 ### David Yu
 Something interesting that the article mentioned was that over the decades there are less "programmers" and more "developers." This shows a change in the market's needs into product focused development as opposed to general back-end work.
