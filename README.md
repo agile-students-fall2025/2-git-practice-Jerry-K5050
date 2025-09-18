@@ -6,5 +6,9 @@ Here is the website I find interesting, which is about [the evolution of softwar
 
  This website has some meaningful industry statistics for software engineering and software development. As in the provided statistic, we see a **significantly lower increment** - even a stagnation - in the mean annual pay of software developers and programmers than previous decades. Looking at the broader future trend, the author asserts that "industry experts expect low-level coding and programming jobs to become obsolete", which is kind of interesting as we now see the uprising of LLM such as ChatGPT and Gemini doing most of the easy, repetitive jobs for software development.
 
+ ## Comment from ethanzzheng
+
+ Cool article! As someone interested in software roles, I think this article provides insight into the future of LLMs and how that will impact compesensation in the tech market. 
+
 ### David Yu
 Something interesting that the article mentioned was that over the decades there are less "programmers" and more "developers." This shows a change in the market's needs into product focused development as opposed to general back-end work.
