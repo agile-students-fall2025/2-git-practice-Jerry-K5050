@@ -9,3 +9,6 @@ Here is the website I find interesting, which is about [the evolution of softwar
  ## Comment from ethanzzheng
 
  Cool article! As someone interested in software roles, I think this article provides insight into the future of LLMs and how that will impact compesensation in the tech market. 
+
+### David Yu
+Something interesting that the article mentioned was that over the decades there are less "programmers" and more "developers." This shows a change in the market's needs into product focused development as opposed to general back-end work.
